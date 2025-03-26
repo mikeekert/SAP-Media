@@ -3,4 +3,12 @@
 ## Notes: SAP-Media
 ## Author: Photoshoot
 ## Version: 1.0.0
+## IconTexture: Interface\AddOns\SAP-Media\Media\sap.blp
 ## X-Curse-Project-ID: 1229623
+## DefaultState: Enable
+
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0.lua
+
+SAP-Media.lua
