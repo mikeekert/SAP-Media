@@ -11,4 +11,5 @@ Libs\LibStub.lua
 Libs\CallbackHandler-1.0.lua
 Libs\LibSharedMedia-3.0.lua
 
-SAP-Media.lua
+SAP-Media-Viewer.lua
+SAP-Media-Extras.lua
