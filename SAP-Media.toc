@@ -1,6 +1,6 @@
 ## Interface: 110100
 ## Title: SAP-Media
-## Notes: SAP-Media
+## Notes: SAP Guild media pack
 ## Author: Photoshoot
 ## Version: 1.0.0
 ## IconTexture: Interface\AddOns\SAP-Media\Media\sap.blp
