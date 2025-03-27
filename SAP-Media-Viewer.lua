@@ -24,11 +24,11 @@ f.scroll:SetScript("OnSizeChanged", function(_, width, height)
 end)
 
 local mediaImages = {
-    "1.tga", "2.tga", "3.tga", "4.tga", "5.tga", "6.tga", "7.tga"
+    "1.tga",
 }
 
 local totalImages = {}
-for _ = 1, 20 do
+for _ = 1, 40 do
     for _, image in ipairs(mediaImages) do
         table.insert(totalImages, image)
     end
