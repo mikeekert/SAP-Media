@@ -8,3 +8,5 @@ LSM:Register("sound", "|cFFFFD700Good|r", [[Interface\Addons\SAP-Media\Media\Sou
 LSM:Register("sound", "|cFFFFD700Eww|r", [[Interface\Addons\SAP-Media\Media\Sounds\eww.ogg]])
 LSM:Register("sound", "|cFFFFD70Ah!|r", [[Interface\Addons\SAP-Media\Media\Sounds\lestatt.ogg]])
 LSM:Register("sound", "|cFFFFD700Crank|r", [[Interface\Addons\SAP-Media\Media\Sounds\staying_cranking.ogg]])
+LSM:Register("sound", "|cFFFFD700AwFuck!|r", [[Interface\Addons\SAP-Media\Media\Sounds\sephfuck.ogg]])
+LSM:Register("sound", "|cFFFFD700Serpentine|r", [[Interface\Addons\SAP-Media\Media\Sounds\serpentine.ogg]])
